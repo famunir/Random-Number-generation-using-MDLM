@@ -1,5 +1,5 @@
 # Introduction
-The MATLAB code is to generate chaotic sequences using fixed-point computation. The research for this paper is presented in [Designing multi-dimensional logistic map with fixed-point finite precision]([https://link.springer.com/article/10.1007/s11071-019-05112-4)
+The MATLAB code is to generate chaotic sequences using fixed-point computation. The research for this paper is presented in [Designing multi-dimensional logistic map with fixed-point finite precision](https://link.springer.com/article/10.1007/s11071-019-05112-4)
 
 # Changeable Parameters
 There are two types of parameters that can be modified:
