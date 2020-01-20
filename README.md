@@ -12,15 +12,16 @@ Cite this article as:
     Munir, F.A., Zia, M. & Mahmood, H. Nonlinear Dyn (2019) 97: 2147. https://doi.org/10.1007/s11071-019-05112-4 
     
     ''' @article{munir2019designing,
-  title={Designing multi-dimensional logistic map with fixed-point finite precision},
-  author={Munir, Fahad A and Zia, Muhammad and Mahmood, Hasan},
-  journal={Nonlinear Dynamics},
-  volume={97},
-  number={4},
-  pages={2147--2158},
-  year={2019},
-  publisher={Springer}
-}'''
+        title={Designing multi-dimensional logistic map with fixed-point finite precision},
+        author={Munir, Fahad A and Zia, Muhammad and Mahmood, Hasan},
+        journal={Nonlinear Dynamics},
+        volume={97},
+        number={4},
+        pages={2147--2158},
+        year={2019},
+        publisher={Springer}
+        }
+        '''
 
 
 More updates to follow.
