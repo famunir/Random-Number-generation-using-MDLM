@@ -5,6 +5,7 @@ The MATLAB code is to generate chaotic sequences using fixed-point computation. 
 There are two types of parameters that can be modified:
 1. Control parameters: r_one, r_two, r_three, r_four and r_five. (the appropriate values can be selected from 1-4. However, not all values will result in chaos).
 2. Computation parameters: word-length (w) and fraction part (n).
+
 In addition, you can modify the value of seeds to get different chaotic trajectories. Appropriate values of seeds can be selected from phase space of logistic map.
 
 # Cite
