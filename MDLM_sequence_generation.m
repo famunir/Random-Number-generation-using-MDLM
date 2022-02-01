@@ -20,7 +20,7 @@ N = 1000000;
 w = 16
 n = 8
 
-% Initialization of control parameters in Q m.n format.
+% Initialization of control parameters in Q w-n.n format.
 r_one = ufi(4,w,n);
 % r_bin = bin(r_one);
 
@@ -32,10 +32,10 @@ r_four = ufi(4,w,n);
 
 r_five = ufi(4,w,n);
 
-% Initialization of '1' in Q 1.7 format.
+% Initialization of '1' in Q w-n.n format.
 constant = ufi(1,w,n);
 
-% Intialization of Logistic map variables using Q 0.4 format.
+% Intialization of Logistic map variables using Q w-w.w format.
 logistic_map_one = ufi(zeros(1,N),w,w);
 logistic_map_two = ufi(zeros(1,N),w,w);
 logistic_map_three = ufi(zeros(1,N),w,w);
